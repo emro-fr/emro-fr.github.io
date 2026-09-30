@@ -1,0 +1,95 @@
+{
+  "aiConfigured": false,
+  "roles": [
+    {
+      "role": "hero",
+      "file": "assets/hero.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: wide cinematic hero composition with a strong focal subject and generous negative space for website headline overlay. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 36977,
+      "sha256": "262a842dfd334895bd399e518a048ceb94c93cdf88f8cc21c5e28913a7f50bde",
+      "average_hash": "03070f8e9e9ec2ff"
+    },
+    {
+      "role": "feature",
+      "file": "assets/feature.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: editorial close-up showing the main service or product in use, premium commercial photography. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 38690,
+      "sha256": "47ea29b390f6e859a1558c363db323f46a9f91c32f84fd27d5b759b140819021",
+      "average_hash": "00001c4c1f1f0363"
+    },
+    {
+      "role": "catalog",
+      "file": "assets/catalog.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: organized assortment or service-category visual with multiple distinct elements, clean composition. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 39512,
+      "sha256": "d480d502bb4ed7f465a7ff946f5bf5e05928eb9c44554dfc873611f63c07bf66",
+      "average_hash": "03031c3c7efee0e2"
+    },
+    {
+      "role": "story",
+      "file": "assets/story.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: human-centered editorial scene showing process and craft, candid but polished. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 41893,
+      "sha256": "425d036c3912b7e5dbe2717f707636e401cb0856e4835428dbf84d56fef67daa",
+      "average_hash": "00011c7c7e7e7078"
+    },
+    {
+      "role": "process",
+      "file": "assets/process.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: workflow-oriented scene showing preparation, tools, steps or operational system. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 36445,
+      "sha256": "443203543333ffbd77ffcc1508479dc0cca4ce524e7cefd9dd2edcae7a525700",
+      "average_hash": "80000c0cdedefcff"
+    },
+    {
+      "role": "detail",
+      "file": "assets/detail.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: high-detail close-up of material, equipment, product, dashboard or craft relevant to the business. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 35607,
+      "sha256": "7c7213c293e27a909fef1b207e57801e8dae9e10ab307cc7ab67914e179d571f",
+      "average_hash": "00000c8d9edec7ff"
+    },
+    {
+      "role": "location",
+      "file": "assets/location.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: environmental interior or exterior establishing the physical or operational setting. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 34389,
+      "sha256": "aa2087fb3b34f0c4bb129516e21e66b07be31da82b45dbfb30f41a1eef15fa0d",
+      "average_hash": "07020c0c1e5ee0ff"
+    },
+    {
+      "role": "social",
+      "file": "assets/social.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: square-friendly energetic composition suitable for a social media card, no text. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 42937,
+      "sha256": "6ea3abbbdc0bc4cb1c259e30dac4d1712f8561da4a982b3b1b9b6ac3074b461d",
+      "average_hash": "0000fcfcffff0f0d"
+    },
+    {
+      "role": "og",
+      "file": "assets/og.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: brand-neutral promotional composition with strong center framing and empty lower area for later text overlay. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 37996,
+      "sha256": "08b8ee7233120ae29c54026da50473bcfa2bd912cddb4bd280389bb8a6da3b13",
+      "average_hash": "00000e0f1f3fbbff"
+    },
+    {
+      "role": "texture",
+      "file": "assets/texture.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Bike Shop business named Emro Fr. Scene: premium retail merchandising with coherent products, shelves or catalog-ready product styling. Composition: abstract but industry-specific macro texture, materials or geometry usable as a background. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 71481,
+      "sha256": "c283457d43897433e5df100ce9c927f6ed4f1b6fb8245352f76ce6544b51010d",
+      "average_hash": "00000e6e5edec1ff"
+    }
+  ]
+}

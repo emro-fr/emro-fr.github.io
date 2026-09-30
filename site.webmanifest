@@ -1,0 +1,15 @@
+{
+  "name": "Emro Fr",
+  "short_name": "Emro Fr",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#101418",
+  "background_color": "#f1f4f5",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
